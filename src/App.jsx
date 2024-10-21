@@ -29,8 +29,8 @@ function App() {
 
               <Box className='p-[24px_24px_0_0] mb-[24px]'>
                 {/* overview section */}
-                <Box className='flex p-[16px_32px] gap-4 bg-white text-black rounded-[0_12px_12px_0] border-l-4 border-[#277c78] shadow-sm '>
-                  <HomeIcon></HomeIcon>
+                <Box className='flex p-[16px_32px] gap-4 bg-white text-black rounded-[0_12px_12px_0] border-l-4 border-[#277c78] shadow-sm items-center'>
+                  <HomeIcon sx={{ fontSize: "30px", color: "#277c78" }}></HomeIcon>
                   <Typography variant="h6 " fontWeight="700" fontSize='16px' >
                     Overview
                   </Typography>

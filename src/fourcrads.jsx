@@ -233,7 +233,7 @@ function FourCrads() {
                     <Box className="flex gap-[16px] justify-center items-center">
                     <Avatar alt="Remy Sharp" src="/assets/1.jpg" /> 
                     <Typography variant="subtitle1" fontWeight="700" fontSize="14px" className='text-black' fontFamily="pulic-sans">
-                    Emma Richardson
+                    Savory Bites Bistro
                    </Typography>
                     </Box>
                  
@@ -241,7 +241,7 @@ function FourCrads() {
                   <Box>
                     
                     <Typography variant="subtitle1" fontWeight="bold" fontSize="14px" className='text-[#277C78]' fontFamily="pulic-sans">
-                    +$75.50
+                    -$55.50
                    </Typography>
 
                    <Typography variant="subtitle1" fontWeight="300" fontSize="12px" className='text-[#696868]' fontFamily="pulic-sans">
@@ -256,7 +256,7 @@ function FourCrads() {
                     <Box className="flex gap-[16px] justify-center items-center">
                     <Avatar alt="Remy Sharp" src="/assets/2.jpg" /> 
                     <Typography variant="subtitle1" fontWeight="700" fontSize="14px" className='text-black' fontFamily="pulic-sans">
-                    Emma Richardson
+                    Daniel Carter
                    </Typography>
                     </Box>
                  
@@ -264,11 +264,11 @@ function FourCrads() {
                   <Box>
                     
                     <Typography variant="subtitle1" fontWeight="bold" fontSize="14px" className='text-[#277C78]' fontFamily="pulic-sans">
-                    +$75.50
+                    -$42.30
                    </Typography>
 
                    <Typography variant="subtitle1" fontWeight="300" fontSize="12px" className='text-[#696868]' fontFamily="pulic-sans">
-                   19 Aug 2024
+                   18 Aug 2024
                    </Typography>
 
                     </Box>
@@ -280,7 +280,7 @@ function FourCrads() {
                     <Box className="flex gap-[16px] justify-center items-center">
                     <Avatar alt="Remy Sharp" src="/assets/3.jpg" /> 
                     <Typography variant="subtitle1" fontWeight="700" fontSize="14px" className='text-black' fontFamily="pulic-sans">
-                    Emma Richardson
+                    Sun Park
                    </Typography>
                     </Box>
                  
@@ -288,11 +288,11 @@ function FourCrads() {
                   <Box>
                     
                     <Typography variant="subtitle1" fontWeight="bold" fontSize="14px" className='text-[#277C78]' fontFamily="pulic-sans">
-                    +$75.50
+                    +$120.00
                    </Typography>
 
                    <Typography variant="subtitle1" fontWeight="300" fontSize="12px" className='text-[#696868]' fontFamily="pulic-sans">
-                   19 Aug 2024
+                   17 Aug 2024
                    </Typography>
 
                     </Box>
@@ -312,11 +312,11 @@ function FourCrads() {
                   <Box>
                     
                     <Typography variant="subtitle1" fontWeight="bold" fontSize="14px" className='text-[#277C78]' fontFamily="pulic-sans">
-                    +$75.50
+                    -$65.00
                    </Typography>
 
                    <Typography variant="subtitle1" fontWeight="300" fontSize="12px" className='text-[#696868]' fontFamily="pulic-sans">
-                   19 Aug 2024
+                   17 Aug 2024
                    </Typography>
 
                     </Box>
@@ -362,22 +362,22 @@ function FourCrads() {
 
                     <Box className="flex justify-between bg-[#F8F4F0] p-[20px_16px] rounded-[8px] border-l-4 border-[#82C9D7]">
                     <Typography variant="subtitle1" fontWeight="bold" fontSize="14px" className='text-[#696868]' >
-                    Paid Bills
+                    Total Upcoming
                    </Typography>
 
                    <Typography variant="" fontWeight="700" fontSize="14px" className='text-black' >
-                   $190.00
+                   $194.98
                    </Typography>
                     </Box>
 
 
                     <Box className="flex justify-between bg-[#F8F4F0] p-[20px_16px] rounded-[8px] border-l-4 border-[#82C9D7]">
                     <Typography variant="subtitle1" fontWeight="bold" fontSize="14px" className='text-[#696868]' >
-                    Paid Bills
+                    Due Soon
                    </Typography>
 
                    <Typography variant="" fontWeight="700" fontSize="14px" className='text-black' >
-                   $190.00
+                   $59.98
                    </Typography>
                     </Box>
                 </Box>
